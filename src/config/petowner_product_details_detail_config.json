@@ -1,0 +1,42 @@
+{
+
+"petowner": [
+    {
+        "key": "OwnerId",
+        "type": "keyid",
+        "UIComponentTitle": "PetOwner"
+    }
+        ,{
+        "key": "OwnerName",
+        "label": "OwnerName",
+        "type": "text",
+        "editable": true,
+        "validators": [
+                    ]
+                            }
+    ,{
+        "key": "ContactPrimary",
+        "label": "ContactPrimary",
+        "type": "text",
+        "editable": true,
+        "validators": [
+                    ]
+                            }
+    ,{
+        "key": "Address",
+        "label": "Address",
+        "type": "text",
+        "editable": true,
+        "validators": [
+                    ]
+                            }
+    ,{
+        "key": "Pincode",
+        "label": "Pincode",
+        "type": "text",
+        "editable": true,
+        "validators": [
+                    ]
+                            }
+]
+}
